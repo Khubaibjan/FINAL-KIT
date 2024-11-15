@@ -5,7 +5,7 @@
 // @author       Khubaib Jan
 // @grant       none
 // @version     1.5
-// @description Combines audio duration handling with Error 1015 skip functionality
+// @description Error handling, Call Refresher, Audio duration viewer etc
 // ==/UserScript==
 
 (function () {
