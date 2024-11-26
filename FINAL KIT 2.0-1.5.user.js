@@ -99,5 +99,5 @@
 
     // Constants moved to the bottom
     const errorReloadTime = 1000; // 1 second for error reload
-    const audioReloadTime = 3000; // 3 seconds for audio duration exceed
+    const audioReloadTime = 1500; // 3 seconds for audio duration exceed
 })();
